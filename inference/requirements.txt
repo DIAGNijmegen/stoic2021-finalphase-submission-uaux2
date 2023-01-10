@@ -1,0 +1,4 @@
+aucmedi==0.4.0
+git+https://github.com/frankkramer-lab/MIScnn.git@batchgenerators
+tensorflow-addons>=0.13.0
+evalutils
